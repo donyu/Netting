@@ -1,0 +1,15 @@
+// your variable changes can go here
+
+@import "ionic/ionic.app";
+
+// your slick styles can go here...
+// when Sass processes, both Ionic's Sass and your Sass will combine
+// into one file and saved in your app's directory as css/app.css
+
+.bar.bar-calm {
+	background-color: $calm;
+}
+
+.positive-background {
+	background-color: $positive;
+}
